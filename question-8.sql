@@ -1,3 +1,3 @@
-UPDATE people
+UPDATE persons
 SET age = '18'
-WHERE addresses like 'Street';
+WHERE address like 'Street';
