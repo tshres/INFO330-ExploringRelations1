@@ -1,2 +1,1 @@
-SELECT min(age), max(age), avg(age)
-FROM persons;
+SELECT min(age), max(age), avg(age) FROM persons;
